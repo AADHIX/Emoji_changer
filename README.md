@@ -22,3 +22,20 @@ A fun and engaging Flutter game where players tap emojis for motivation and happ
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/emoji_tapper.git
+
+
+emoji_tapper/
+├── lib/
+│   ├── main.dart
+│   ├── splash_screen.dart
+│   └── home_screen.dart
+├── assets/
+│   ├── animations/
+│   │   └── blue.json
+│   └── images/
+├── fonts/
+│   ├── Poppins-Regular.ttf
+│   └── Poppins-Bold.ttf
+├── pubspec.yaml
+├── README.md
+└── .gitignore

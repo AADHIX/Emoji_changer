@@ -16,7 +16,7 @@ A fun and fast-paced mobile game built with Flutter where players test their ref
 
 ## 📸 Screenshots
 
-*(You can replace these links with actual screenshots of your app for a better presentation)*
+
 
 | Splash Screen                                       | Game Screen                                     | Results Screen                                      |
 | --------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |

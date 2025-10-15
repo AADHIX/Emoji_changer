@@ -15,6 +15,9 @@ A fun and fast-paced mobile game built with Flutter where players test their ref
 -   **Clean UI/UX**: A minimalist and intuitive design built with modern aesthetics.
 
 ## 📸 Screenshots
+<img width="1440" height="3040" alt="Screenshot_20251015_223643" src="https://github.com/user-attachments/assets/f9a11d8b-8513-4a9d-be1b-a7555009d066" />
+<img width="1440" height="3040" alt="Screenshot_20251015_223610" src="https://github.com/user-attachments/assets/3a14f72c-764d-42ac-a351-5582d9e11143" />
+<img width="1440" height="3040" alt="Screenshot_20251015_223724" src="https://github.com/user-attachments/assets/d7a46519-a76f-4c22-8061-184cc6426b30" />
 
 
 
